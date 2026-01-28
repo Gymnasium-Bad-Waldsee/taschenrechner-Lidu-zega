@@ -3,7 +3,7 @@ def add(a, b):
     return a + b
 
 # Hier sollen die Schüler die Funktionen für Subtraktion, Multiplikation und Division selbst erstellen.
-
+#kiiiiiii
 print("Willkommen beim Taschenrechner!")
 print("Wähle eine Operation:")
 print("1. Addition")
